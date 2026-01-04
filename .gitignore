@@ -1,0 +1,9 @@
+App.config
+bin/
+frmPizzaOrder.Designer.cs
+MakeYourPizza.csproj
+obj/
+Properties/
+app.manifest
+frmPizzaOrder.resx
+MakeYourPizza.slnx
